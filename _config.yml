@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: BlueTimeMeter
+description: Take time's measures in your code easy. You can get measures or log it easy with this tool
+logo: https://bluekiri.com/images/bluekiri.svg
+show_downloads: true
